@@ -1,4 +1,4 @@
-sum_departures_scheduled,sum_departures_performed,sum_payload,sum_seats,sum_passengers,sum_freight,sum_mail,sum_distance,sum_ramp_to_ramp,sum_air_time,quarterFlight.year,quarterFlight.quarter,quarterly_rev_data.quarter,quarterly_rev_data.year,rev
+sum_departures_scheduled,sum_departures_performed,sum_payload,sum_seats,sum_passengers,sum_freight,sum_mail,sum_distance,sum_ramp_to_ramp,sum_air_time,year,quarter,rev_quarter,rev_year,rev
 316037.0,313766.0,11045304249,45854908,37611820,78733188,0.0,7236951.0,37973914,32281283,2015,4,4.0,2015,4977
 322474.0,321156.0,11277448613,46866508,38677034,76741255,0.0,7191296.0,38824288,32943078,2015,3,3.0,2015,5318
 323885.0,321454.0,11278458107,46895014,38555919,82802059,0.0,7712593.0,39123664,33389958,2015,2,2.0,2015,5111
