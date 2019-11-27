@@ -1,0 +1,4 @@
+
+Defines the horrible csv file names
+
+quarter.txt - Contains the unprocessed and unformatted Quarterly Rev Data from
